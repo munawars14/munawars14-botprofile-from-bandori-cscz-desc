@@ -674,3 +674,6 @@ This is a custom bots list of the BotProfile of Counter-Strike Condition Zero, t
 </tr></tbody>
 </table>
 
+Description(s) :
+<li>* = Not <b>Default BOT</b></li>
+<li>** = Class to be used in games <b>Counter-Strike 1.6</b> and <b>Counter-Strike Source</b></li>
