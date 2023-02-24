@@ -4,116 +4,61 @@ This is a custom bots list of the BotProfile of Counter-Strike Condition Zero, t
 <table border="1">
 <tbody align="center">
 <tr>
-<th colspan="10">Poppin' Party</th>
+<th colspan="10">Poppin'Party</th>
 <th colspan="10">Afterglow</th>
-<th colspan="10">Hello Happy World</th>
+<th colspan="10">Hello, Happy World!</th>
 <th colspan="10">Pastel*Palettes</th>
 <th colspan="10">Roselia</th>
 <th colspan="10">Morfonica</th>
-<th colspan="10">Raise A Suilen</th>
+<th colspan="10">RAISE A SUILEN</th>
 <th colspan="8">Glitter*Green</th>
 <th colspan="8">CHiSPA</th>
-<th colspan="2">CiRCLE Staff</th>
-<th colspan="2">Other</th>
+<th colspan="6">ViVidCanvas</th>
+<th colspan="4">Other</th>
 </tr>
+
 <tr>
-<th colspan="2">Expert</th>
-<th colspan="2">Expert</th>
-<th colspan="2">Expert</th>
-<th colspan="2">Expert</th>
-<th colspan="2">Expert</th>
+<td colspan="2"><img alt="Kasumi" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/kasumi.png"></td>
+<td colspan="2"><img alt="Tae" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/otae.png"></td>
+<td colspan="2"><img alt="Rimi" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/rimi.png"></td>
+<td colspan="2"><img alt="Saaya" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/saaya.png"></td>
+<td colspan="2"><img alt="Arisa" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/arisa.png"></td>
 
-<th colspan="2">Expert</th>
-<th colspan="2">Expert</th>
-<th colspan="2">Expert</th>
-<th colspan="2">Expert</th>
-<th colspan="2">Expert</th>
+<td colspan="2"><img alt="Ran" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/ran.png"></td>
+<td colspan="2"><img alt="Moca" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/moca.png"></td>
+<td colspan="2"><img alt="Himari" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/himari.png"></td>
+<td colspan="2"><img alt="Tomoe" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/tomoe.png"></td>
+<td colspan="2"><img alt="Tsugumi" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/tsugumi.png"></td>
 
-<th colspan="2">Expert</th>
-<th colspan="2">Expert</th>
-<th colspan="2">Expert</th>
-<th colspan="2">Expert</th>
-<th colspan="2">Expert</th>
+<td colspan="2"><img alt="Kokoro" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/kokoro.png"></td>
+<td colspan="2"><img alt="Kaoru" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/kaoru.png"></td>
+<td colspan="2"><img alt="Hagumi" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/hagumi.png"></td>
+<td colspan="2"><img alt="Kanon" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/kanon.png"></td>
+<td colspan="2"><img alt="Michelle" src=https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/misaki.png"></td>
 
-<th colspan="2">Expert</th>
-<th colspan="2">Expert</th>
-<th colspan="2">Expert</th>
-<th colspan="2">Expert</th>
-<th colspan="2">Expert</th>
+<td colspan="2"><img alt="Aya" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/aya.png"></td>
+<td colspan="2"><img alt="Hina" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/hina.png"></td>
+<td colspan="2"><img alt="Chisato" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/chisato.png"></td>
+<td colspan="2"><img alt="Maya" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/maya.png"></td>
+<td colspan="2"><img alt="Eve" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/eve.png"></td>
 
-<th colspan="2">Expert</th>
-<th colspan="2">Expert</th>
-<th colspan="2">Expert</th>
-<th colspan="2">Expert</th>
-<th colspan="2">Expert</th>
+<td colspan="2"><img alt="Yukina" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/yukina.png"></td>
+<td colspan="2"><img alt="Sayo" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/sayo.png"></td>
+<td colspan="2"><img alt="Lisa" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/lisa.png"></td>
+<td colspan="2"><img alt="Ako" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/ako.png"></td>
+<td colspan="2"><img alt="Rinko" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/rinko.png"></td>
 
-<th colspan="2">Expert</th>
-<th colspan="2">Expert</th>
-<th colspan="2">Expert</th>
-<th colspan="2">Expert</th>
-<th colspan="2">Expert</th>
+<td colspan="2"><img alt="Mashiro" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/mashiro.png"></td>
+<td colspan="2"><img alt="Toko" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/toko.png"></td>
+<td colspan="2"><img alt="Nanami" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/nanami.png"></td>
+<td colspan="2"><img alt="Tsukushi" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/tsukushi.png"></td>
+<td colspan="2"><img alt="Rui" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/rui.png"></td>
 
-<th colspan="2">Expert</th>
-<th colspan="2">Expert</th>
-<th colspan="2">Expert</th>
-<th colspan="2">Expert</th>
-<th colspan="2">Expert</th>
-
-<th colspan="2">Hard+Expert</th>
-<th colspan="2">Hard+Expert</th>
-<th colspan="2">Hard+Expert</th>
-<th colspan="2">Hard+Expert</th>
-
-<th colspan="2">Hard+Expert</th>
-<th colspan="2">Hard+Expert</th>
-<th colspan="2">Hard+Expert</th>
-<th colspan="2">Hard+Expert</th>
-
-<th colspan="2">Hard+Expert</th>
-<th colspan="2">Hard+Expert</th>
-</tr>
-<tr>
-<td colspan="2"><img alt="Kasumi" src="https://i.bandori.party/u/i/m/6Kasumi-Toyama-jsVzTv.png"></td>
-<td colspan="2"><img alt="Tae" src="https://i.bandori.party/u/i/m/7Tae-Hanazono-5ctAXt.png"></td>
-<td colspan="2"><img alt="Rimi" src="https://i.bandori.party/u/i/m/8Rimi-Ushigome-gMEIOR.png"></td>
-<td colspan="2"><img alt="Saaya" src="https://i.bandori.party/u/i/m/9Saaya-Yamabuki-7JDbNa.png"></td>
-<td colspan="2"><img alt="Arisa" src="https://i.bandori.party/u/i/m/10Arisa-Ichigaya-OhdoPc.png"></td>
-
-<td colspan="2"><img alt="Ran" src="https://i.bandori.party/u/i/m/11Ran-Mitake-N5oapw.png"></td>
-<td colspan="2"><img alt="Moca" src="https://i.bandori.party/u/i/m/12Moca-Aoba-FSqhqR.png"></td>
-<td colspan="2"><img alt="Himari" src="https://i.bandori.party/u/i/m/13Himari-Uehara-w2nYPj.png"></td>
-<td colspan="2"><img alt="Tomoe" src="https://i.bandori.party/u/i/m/14Tomoe-Udagawa-S7I3Tb.png"></td>
-<td colspan="2"><img alt="Tsugumi" src="https://i.bandori.party/u/i/m/15Tsugumi-Hazawa-KNbiyZ.png"></td>
-
-<td colspan="2"><img alt="Kokoro" src="https://i.bandori.party/u/i/m/16Kokoro-Tsurumaki-pS7FIm.png"></td>
-<td colspan="2"><img alt="Kaoru" src="https://i.bandori.party/u/i/m/17Kaoru-Seta-RHusGK.png"></td>
-<td colspan="2"><img alt="Hagumi" src="https://i.bandori.party/u/i/m/18Hagumi-Kitazawa-A21E3r.png"></td>
-<td colspan="2"><img alt="Kanon" src="https://i.bandori.party/u/i/m/19Kanon-Matsubara-gUFIXE.png"></td>
-<td colspan="2"><img alt="Michelle" src="https://i.bandori.party/u/i/m/20Michelle-dbNp0x.png"></td>
-
-<td colspan="2"><img alt="Aya" src="https://i.bandori.party/u/i/m/21Aya-Maruyama-Zm0u9A.png"></td>
-<td colspan="2"><img alt="Hina" src="https://i.bandori.party/u/i/m/22Hina-Hikawa-2trHlE.png"></td>
-<td colspan="2"><img alt="Chisato" src="https://i.bandori.party/u/i/m/23Chisato-Shirasagi-NtBBCb.png"></td>
-<td colspan="2"><img alt="Maya" src="https://i.bandori.party/u/i/m/24Maya-Yamato-kNYTzU.png"></td>
-<td colspan="2"><img alt="Eve" src="https://i.bandori.party/u/i/m/25Eve-Wakamiya-jfMYo6.png"></td>
-
-<td colspan="2"><img alt="Yukina" src="https://i.bandori.party/u/i/m/26Yukina-Minato-hUboXl.png"></td>
-<td colspan="2"><img alt="Sayo" src="https://i.bandori.party/u/i/m/27Sayo-Hikawa-2g2xDG.png"></td>
-<td colspan="2"><img alt="Lisa" src="https://i.bandori.party/u/i/m/28Lisa-Imai-NSapWM.png"></td>
-<td colspan="2"><img alt="Ako" src="https://i.bandori.party/u/i/m/29Ako-Udagawa-resmOR.png"></td>
-<td colspan="2"><img alt="Rinko" src="https://i.bandori.party/u/i/m/30Rinko-Shirokane-S5HF59.png"></td>
-
-<td colspan="2"><img alt="Mashiro" src="https://i.bandori.party/u/i/m/31Mashiro-Kurata-5theuT.png"></td>
-<td colspan="2"><img alt="Touko" src="https://i.bandori.party/u/i/m/32Kirigaya-Touko-roXDxC.png"></td>
-<td colspan="2"><img alt="Nanami" src="https://i.bandori.party/u/i/m/33Nanami-Hiromachi-6p9s2u.png"></td>
-<td colspan="2"><img alt="Tsukushi" src="https://i.bandori.party/u/i/m/34Tsukushi-Futaba-q5lGFE.png"></td>
-<td colspan="2"><img alt="Rui" src="https://i.bandori.party/u/i/m/35Rui-Yashio-VY7tDV.png"></td>
-
-<td colspan="2"><img alt="Layer" src="https://i.bandori.party/u/i/m/36LAYER-rxqBxn.png"></td>
-<td colspan="2"><img alt="Lock" src="https://i.bandori.party/u/i/m/37LOCK-hbUncH.png"></td>
-<td colspan="2"><img alt="Masking" src="https://i.bandori.party/u/i/m/38MASKING-p5C4rr.png"></td>
-<td colspan="2"><img alt="Pareo" src="https://i.bandori.party/u/i/m/39PAREO-9NivgR.png"></td>
-<td colspan="2"><img alt="Chu2" src="https://i.bandori.party/u/i/m/40CHU%C2%B2-OuDbvK.png"></td>
+<td colspan="2"><img alt="Layer" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/layer.png"></td>
+<td colspan="2"><img alt="Lock" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/lock.png"></td>
+<td colspan="2"><img alt="Masking" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/masking.png"></td>
+<td colspan="2"><img alt="Pareo" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/pareo.png"></td>
+<td colspan="2"><img alt="Chu2" src="https://raw.githubusercontent.com/munawars14/Munawars14-Condition-Zero-Custom-BOT-for-Tour-of-Duty-from-BanG-Dream/main/chu.png"></td>
 
 <th colspan="2">N/A</th>
 <th colspan="2">N/A</th>
@@ -121,6 +66,10 @@ This is a custom bots list of the BotProfile of Counter-Strike Condition Zero, t
 <th colspan="2">N/A</th>
 
 <th colspan="2">N/A</th>
+<th colspan="2">N/A</th>
+<th colspan="2">N/A</th>
+<th colspan="2">N/A</th>
+
 <th colspan="2">N/A</th>
 <th colspan="2">N/A</th>
 <th colspan="2">N/A</th>
@@ -128,12 +77,13 @@ This is a custom bots list of the BotProfile of Counter-Strike Condition Zero, t
 <th colspan="2">N/A</th>
 <th colspan="2">N/A</th>
 </tr>
+
 <tr>
 <th colspan="2">Kasumi</th>
 <th colspan="2">Tae</th>
 <th colspan="2">Rimi</th>
 <th colspan="2">Saaya</th>
-<th colspan="2">Rimi</th>
+<th colspan="2">Arisa</th>
 
 <th colspan="2">Ran</th>
 <th colspan="2">Moca</th>
@@ -160,7 +110,7 @@ This is a custom bots list of the BotProfile of Counter-Strike Condition Zero, t
 <th colspan="2">Rinko</th>
 
 <th colspan="2">Mashiro</th>
-<th colspan="2">Touko</th>
+<th colspan="2">Toko</th>
 <th colspan="2">Nanami</th>
 <th colspan="2">Tsukushi</th>
 <th colspan="2">Rui</th>
@@ -181,6 +131,10 @@ This is a custom bots list of the BotProfile of Counter-Strike Condition Zero, t
 <th colspan="2">Mayu</th>
 <th colspan="2">Fumika</th>
 
+<th colspan="2">Mio</th>
+<th colspan="2">Serina</th>
+<th colspan="2">Shino</th>
+
 <th colspan="2">Marina</th>
 <th colspan="2">Asuka</th>
 </tr>
@@ -192,7 +146,7 @@ This is a custom bots list of the BotProfile of Counter-Strike Condition Zero, t
 <th>Class</th>
 <th>3</th>
 <th>Class</th>
-<th>5(1**)</th>
+<th>5(1*)</th>
 <th>Class</th>
 <th>4</th>
 
@@ -203,7 +157,7 @@ This is a custom bots list of the BotProfile of Counter-Strike Condition Zero, t
 <th>Class</th>
 <th>3</th>
 <th>Class</th>
-<th>5(2**)</th>
+<th>5(2*)</th>
 <th>Class</th>
 <th>4</th>
 
@@ -212,7 +166,7 @@ This is a custom bots list of the BotProfile of Counter-Strike Condition Zero, t
 <th>Class</th>
 <th>2</th>
 <th>Class</th>
-<th>5(3**)</th>
+<th>5(3*)</th>
 <th>Class</th>
 <th>1</th>
 <th>Class</th>
@@ -223,7 +177,7 @@ This is a custom bots list of the BotProfile of Counter-Strike Condition Zero, t
 <th>Class</th>
 <th>2</th>
 <th>Class</th>
-<th>5(4**)</th>
+<th>5(4*)</th>
 <th>Class</th>
 <th>4</th>
 <th>Class</th>
@@ -236,7 +190,7 @@ This is a custom bots list of the BotProfile of Counter-Strike Condition Zero, t
 <th>Class</th>
 <th>3</th>
 <th>Class</th>
-<th>5(3**)</th>
+<th>5(3*)</th>
 <th>Class</th>
 <th>4</th>
 
@@ -249,7 +203,7 @@ This is a custom bots list of the BotProfile of Counter-Strike Condition Zero, t
 <th>Class</th>
 <th>3</th>
 <th>Class</th>
-<th>5(2**)</th>
+<th>5(2*)</th>
 
 <th>Class</th>
 <th>1</th>
@@ -260,122 +214,146 @@ This is a custom bots list of the BotProfile of Counter-Strike Condition Zero, t
 <th>Class</th>
 <th>4</th>
 <th>Class</th>
-<th>5(1**)</th>
+<th>5(1*)</th>
 
-<th>Class</th>
-<th>1</th>
-<th>Class</th>
-<th>2</th>
-<th>Class</th>
-<th>3</th>
-<th>Class</th>
-<th>4</th>
-
-<th>Class</th>
-<th>4</th>
 <th>Class</th>
 <th>3</th>
 <th>Class</th>
 <th>2</th>
 <th>Class</th>
 <th>1</th>
+<th>Class</th>
+<th>4</th>
 
 <th>Class</th>
 <th>4</th>
 <th>Class</th>
+<th>3</th>
+<th>Class</th>
 <th>2</th>
+<th>Class</th>
+<th>1</th>
+
+<th>Class</th>
+<th>5(1*)</th>
+<th>Class</th>
+<th>5(3*)</th>
+<th>Class</th>
+<th>5(2*)</th>
+
+<th>Class</th>
+<th>5(4*)</th>
+<th>Class</th>
+<th>1</th>
 </tr>
 <tr>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="#00ff00">High</font></th>
-<th>Skill</th>
-<th><font color="green">Good</font></th>
-<th>Skill</th>
-<th><font color="green">Good</font></th>
-<th>Skill</th>
-<th><font color="green">Good</font></th>
-<th>Skill</th>
-<th><font color="green">Good</font></th>
-<th>Skill</th>
-<th><font color="green">Good</font></th>
-<th>Skill</th>
-<th><font color="green">Good</font></th>
-<th>Skill</th>
-<th><font color="green">Good</font></th>
-<th>Skill</th>
-<th><font color="green">Good</font></th>
-<th>Skill</th>
-<th><font color="green">Good</font></th>
-<th>Skill</th>
-<th><font color="green">Good</font></th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+
+
+<th>Difficulties</th>
+<th>ENHEx</th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+
+<th>Difficulties</th>
+<th>ENHEx</th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+
+<th>Difficulties</th>
+<th>ENHEx</th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+
+<th>Difficulties</th>
+<th>ENHEx</th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+
+<th>Difficulties</th>
+<th>ENHEx</th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+
+<th>Difficulties</th>
+<th>ENHEx</th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+<th>Difficulties</th>
+<th>ENHEx</th>
+
+<th>Difficulties</th>
+<th>ENH</th>
+<th>Difficulties</th>
+<th>ENH</th>
+<th>Difficulties</th>
+<th>ENH</th>
+<th>Difficulties</th>
+<th>ENH</th>
+
+<th>Difficulties</th>
+<th>ENH</th>
+<th>Difficulties</th>
+<th>ENH</th>
+<th>Difficulties</th>
+<th>ENH</th>
+<th>Difficulties</th>
+<th>ENH</th>
+
+<th>Difficulty</th>
+<th>Easy</th>
+<th>Difficulty</th>
+<th>Easy</th>
+<th>Difficulty</th>
+<th>Easy</th>
+
+<th>Difficulties</th>
+<th>EN</th>
+<th>Difficulties</th>
+<th>EN</th>
 </tr>
 <tr>
 <th>Co-op</th>
@@ -388,22 +366,7 @@ This is a custom bots list of the BotProfile of Counter-Strike Condition Zero, t
 <th><font color="green">Good</font></th>
 <th>Co-op</th>
 <th><font color="yellow">Ok</font></th>
-<th>Co-op</th>
-<th><font color="green">Good</font></th>
-<th>Co-op</th>
-<th><font color="green">Good</font></th>
-<th>Co-op</th>
-<th><font color="green">Good</font></th>
-<th>Co-op</th>
-<th><font color="green">Good</font></th>
-<th>Co-op</th>
-<th><font color="#00ff00">High</font></th>
-<th>Co-op</th>
-<th><font color="#00ff00">High</font></th>
-<th>Co-op</th>
-<th><font color="green">Good</font></th>
-<th>Co-op</th>
-<th><font color="#00ff00">High</font></th>
+
 <th>Co-op</th>
 <th><font color="green">Good</font></th>
 <th>Co-op</th>
@@ -413,7 +376,19 @@ This is a custom bots list of the BotProfile of Counter-Strike Condition Zero, t
 <th>Co-op</th>
 <th><font color="#00ff00">High</font></th>
 <th>Co-op</th>
+<th><font color="#00ff00">High</font></th>
+
+<th>Co-op</th>
+<th><font color="#00ff00">High</font></th>
+<th>Co-op</th>
 <th><font color="green">Good</font></th>
+<th>Co-op</th>
+<th><font color="#00ff00">High</font></th>
+<th>Co-op</th>
+<th><font color="green">Good</font></th>
+<th>Co-op</th>
+<th><font color="green">Good</font></th>
+
 <th>Co-op</th>
 <th><font color="green">Good</font></th>
 <th>Co-op</th>
@@ -424,18 +399,7 @@ This is a custom bots list of the BotProfile of Counter-Strike Condition Zero, t
 <th><font color="green">Good</font></th>
 <th>Co-op</th>
 <th><font color="#00ff00">High</font></th>
-<th>Co-op</th>
-<th><font color="green">Good</font></th>
-<th>Co-op</th>
-<th><font color="#00ff00">High</font></th>
-<th>Co-op</th>
-<th><font color="#00ff00">High</font></th>
-<th>Co-op</th>
-<th><font color="#00ff00">High</font></th>
-<th>Co-op</th>
-<th><font color="#00ff00">High</font></th>
-<th>Co-op</th>
-<th><font color="green">Good</font></th>
+
 <th>Co-op</th>
 <th><font color="green">Good</font></th>
 <th>Co-op</th>
@@ -446,8 +410,29 @@ This is a custom bots list of the BotProfile of Counter-Strike Condition Zero, t
 <th><font color="green">Good</font></th>
 <th>Co-op</th>
 <th><font color="#00ff00">High</font></th>
+
+<th>Co-op</th>
+<th><font color="#00ff00">High</font></th>
 <th>Co-op</th>
 <th><font color="green">Good</font></th>
+<th>Co-op</th>
+<th><font color="#00ff00">High</font></th>
+<th>Co-op</th>
+<th><font color="green">Good</font></th>
+<th>Co-op</th>
+<th><font color="green">Good</font></th>
+
+<th>Co-op</th>
+<th><font color="green">Good</font></th>
+<th>Co-op</th>
+<th><font color="#00ff00">High</font></th>
+<th>Co-op</th>
+<th><font color="green">Good</font></th>
+<th>Co-op</th>
+<th><font color="#00ff00">High</font></th>
+<th>Co-op</th>
+<th><font color="yellow">Ok</font></th>
+
 <th>Co-op</th>
 <th>Default</th>
 <th>Co-op</th>
@@ -456,6 +441,7 @@ This is a custom bots list of the BotProfile of Counter-Strike Condition Zero, t
 <th>Default</th>
 <th>Co-op</th>
 <th>Default</th>
+
 <th>Co-op</th>
 <th>Default</th>
 <th>Co-op</th>
@@ -464,6 +450,14 @@ This is a custom bots list of the BotProfile of Counter-Strike Condition Zero, t
 <th>Default</th>
 <th>Co-op</th>
 <th>Default</th>
+
+<th>Co-op</th>
+<th>Default</th>
+<th>Co-op</th>
+<th>Default</th>
+<th>Co-op</th>
+<th>Default</th>
+
 <th>Co-op</th>
 <th>Default</th>
 <th>Co-op</th>
@@ -473,144 +467,108 @@ This is a custom bots list of the BotProfile of Counter-Strike Condition Zero, t
 <tr>
 <th>Bravery</th>
 <th><font color="#00ff00">High</font></th>
-
+<th>Bravery</th>
+<th><font color="green">Good</font></th>
+<th>Bravery</th>
+<th><font color="yellow">Ok</font></th>
+<th>Bravery</th>
+<th><font color="#00ff00">High</font></th>
 <th>Bravery</th>
 <th><font color="green">Good</font></th>
 
+<th>Bravery</th>
+<th><font color="#00ff00">High</font></th>
+<th>Bravery</th>
+<th><font color="#00ff00">High</font></th>
+<th>Bravery</th>
+<th><font color="green">Good</font></th>
+<th>Bravery</th>
+<th><font color="#00ff00">High</font></th>
 <th>Bravery</th>
 <th><font color="yellow">Ok</font></th>
 
 <th>Bravery</th>
 <th><font color="#00ff00">High</font></th>
-
+<th>Bravery</th>
+<th><font color="#00ff00">High</font></th>
 <th>Bravery</th>
 <th><font color="green">Good</font></th>
-
-
-<th>Bravery</th>
-<th><font color="#00ff00">High</font></th>
-
-<th>Bravery</th>
-<th><font color="#00ff00">High</font></th>
-
-<th>Bravery</th>
-<th><font color="green">Good</font></th>
-
-<th>Bravery</th>
-<th><font color="#00ff00">High</font></th>
-
 <th>Bravery</th>
 <th><font color="yellow">Ok</font></th>
-
-
-<th>Bravery</th>
-<th><font color="#00ff00">High</font></th>
-
-<th>Bravery</th>
-<th><font color="#00ff00">High</font></th>
-
 <th>Bravery</th>
 <th><font color="green">Good</font></th>
 
+<th>Bravery</th>
+<th><font color="green">Good</font></th>
+<th>Bravery</th>
+<th><font color="#00ff00">High</font></th>
+<th>Bravery</th>
+<th><font color="#00ff00">High</font></th>
+<th>Bravery</th>
+<th><font color="#00ff00">High</font></th>
+<th>Bravery</th>
+<th><font color="green">Good</font></th>
+
+<th>Bravery</th>
+<th><font color="#00ff00">High</font></th>
+<th>Bravery</th>
+<th><font color="green">Good</font></th>
 <th>Bravery</th>
 <th><font color="yellow">Ok</font></th>
-
-<th>Bravery</th>
-<th><font color="#00ff00">High</font></th>
-
-
 <th>Bravery</th>
 <th><font color="green">Good</font></th>
-
-<th>Bravery</th>
-<th><font color="#00ff00">High</font></th>
-
-<th>Bravery</th>
-<th><font color="#00ff00">High</font></th>
-
-<th>Bravery</th>
-<th><font color="green">Good</font></th>
-
-<th>Bravery</th>
-<th><font color="green">Good</font></th>
-
-
-<th>Bravery</th>
-<th><font color="#00ff00">High</font></th>
-
-<th>Bravery</th>
-<th><font color="green">Good</font></th>
-
-<th>Bravery</th>
-<th><font color="green">Good</font></th>
-
-<th>Bravery</th>
-<th><font color="green">Good</font></th>
-
-<th>Bravery</th>
-<th><font color="yellow">Ok</font></th>
-
-
 <th>Bravery</th>
 <th><font color="yellow">Ok</font></th>
 
 <th>Bravery</th>
-<th><font color="#00ff00">High</font></th>
-
+<th><font color="yellow">Ok</font></th>
 <th>Bravery</th>
 <th><font color="green">Good</font></th>
-
 <th>Bravery</th>
 <th><font color="green">Good</font></th>
-
-<th>Bravery</th>
-<th><font color="#00ff00">High</font></th>
-
-
 <th>Bravery</th>
 <th><font color="green">Good</font></th>
-
-<th>Bravery</th>
-<th><font color="green">Good</font></th>
-
 <th>Bravery</th>
 <th><font color="#00ff00">High</font></th>
 
 <th>Bravery</th>
 <th><font color="green">Good</font></th>
-
+<th>Bravery</th>
+<th><font color="green">Good</font></th>
 <th>Bravery</th>
 <th><font color="#00ff00">High</font></th>
+<th>Bravery</th>
+<th><font color="#00ff00">High</font></th>
+<th>Bravery</th>
+<th><font color="yellow">Ok</font></th>
 
-
+<th>Bravery</th>
+<th>Default</th>
+<th>Bravery</th>
+<th>Default</th>
+<th>Bravery</th>
+<th>Default</th>
 <th>Bravery</th>
 <th>Default</th>
 
 <th>Bravery</th>
 <th>Default</th>
-
+<th>Bravery</th>
+<th>Default</th>
+<th>Bravery</th>
+<th>Default</th>
 <th>Bravery</th>
 <th>Default</th>
 
 <th>Bravery</th>
 <th>Default</th>
-
-
+<th>Bravery</th>
+<th>Default</th>
 <th>Bravery</th>
 <th>Default</th>
 
 <th>Bravery</th>
 <th>Default</th>
-
-<th>Bravery</th>
-<th>Default</th>
-
-<th>Bravery</th>
-<th>Default</th>
-
-<th>Bravery</th>
-<th>Default</th>
-
 <th>Bravery</th>
 <th>Default</th>
 </tr>
@@ -636,7 +594,7 @@ This is a custom bots list of the BotProfile of Counter-Strike Condition Zero, t
 
 <th colspan="2"><img alt="P90" src="https://images.gamebanana.com/img/ico/ModCategory/4e97ca3ccc6da.png"></th>
 <th colspan="2"><img alt="M4A1" src="https://images.gamebanana.com/img/ico/ModCategory/m4a1_6.png"></th>
-<th colspan="2"><img alt="XM1014" src="https://images.gamebanana.com/img/ico/ModCategory/4e97cb26dda24.png"></th>
+<th colspan="2"><img alt="AK47" src="https://images.gamebanana.com/img/ico/ModelCategory/57d080ae96a86.png"></th>
 <th colspan="2"><img alt="AUG" src="https://images.gamebanana.com/img/ico/ModCategory/aug.png"></th>
 <th colspan="2"><img alt="M249" src="https://images.gamebanana.com/img/ico/ModCategory/4e97c9b051907.png"></th>
 
@@ -667,6 +625,10 @@ This is a custom bots list of the BotProfile of Counter-Strike Condition Zero, t
 <th colspan="2"><img alt="AUG" src="https://images.gamebanana.com/img/ico/ModCategory/aug.png"></th>
 <th colspan="2"><img alt="AWP" src="https://images.gamebanana.com/img/ico/ModCategory/4e97c85a164c3.png"></th>
 <th colspan="2"><img alt="M249" src="https://images.gamebanana.com/img/ico/ModCategory/4e97c9b051907.png"></th>
+
+<th colspan="2"><img alt="P90" src="https://images.gamebanana.com/img/ico/ModCategory/4e97ca3ccc6da.png"></th>
+<th colspan="2"><img alt="XM1014" src="https://images.gamebanana.com/img/ico/ModCategory/4e97cb26dda24.png"></th>
+<th colspan="2"><img alt="P90" src="https://images.gamebanana.com/img/ico/ModCategory/4e97ca3ccc6da.png"></th>
 
 <th colspan="2"><img alt="AUG" src="https://images.gamebanana.com/img/ico/ModCategory/aug.png"></th>
 <th colspan="2"><img alt="M4A1" src="https://images.gamebanana.com/img/ico/ModCategory/m4a1_6.png"></th>
